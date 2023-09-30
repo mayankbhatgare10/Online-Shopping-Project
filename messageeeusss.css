@@ -11,12 +11,12 @@
   
   input[type=text]:focus, textarea:focus,button:focus{
     outline: 4px solid orange;
-    background-color:rgb(224, 255, 219);     /* oranges! yey */
+    background-color:rgb(224, 255, 196);     /* oranges! yey */
   }
   
   textarea
   {
-      height: 250px;
+      height: 269px;
       font-size: 17px;
   }
   
@@ -43,7 +43,7 @@
   
   hr
   {
-      width: 60%
+      width: 69%
   }
   
   h3
